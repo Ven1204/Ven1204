@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ven1204" alt="ven1204" /></a> </p>
 
-- 🔭 I’m currently working on [Alexandria](https://www.savealexandria.xyz/)
 
 - 🌱 I’m currently learning **react, vue**
 
