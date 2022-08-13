@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ven1204" alt="ven1204" /></a> </p>
 
 
-- 🌱 I’m currently learning **react, vue**
+- 🌱 I’m currently learning **react, vue, PHP, Typescript, mongoDB, Express, Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/rayvensullerarey](https://troopl.com/rayvensullerarey)
+- 👨‍💻 My projects are available at [(https://ven1204.github.io/)](https://ven1204.github.io/)
 
-- 📫 How to reach me **rayven.rey@gmail.com**
+- 📫 How to reach me **rayvensullera.rey@gmail.com**
 
 - ⚡ Fun fact **Serious looking in the outside, but crazy fun on the inside**
 
